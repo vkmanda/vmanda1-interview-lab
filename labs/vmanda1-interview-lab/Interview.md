@@ -11,10 +11,10 @@ Instructions to to answer the questions as as below:
 Interview Questions:
 
 1. What is your full name?
-My name is Vidya Rajesh
+My name is Vidya Rajesh (a) Visalakshi
 
 2. When did you come to USA?
-I came to USA in 2001
+I came to USA in March 2004
 
 3. What is your favorite books?
 My favorite book is "The complete reference to JAVA"
