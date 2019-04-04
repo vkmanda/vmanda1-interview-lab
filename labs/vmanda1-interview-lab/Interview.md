@@ -14,7 +14,7 @@ Interview Questions:
 My name is Vidya Rajesh (a) Visalakshi
 
 2. When did you come to USA?
-I came to USA in 2001
+I came to USA in March 2004
 
 3. What is your favorite books?
 My favorite book is "The complete reference to JAVA"
